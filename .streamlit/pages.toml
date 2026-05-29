@@ -1,0 +1,29 @@
+[[pages]]
+path = "app.py"
+name = "Home"
+icon = "🏠"
+
+[[pages]]
+path = "pages/1_Analisa_Resep.py"
+name = "Analisa Resep"
+icon = "🔍"
+
+[[pages]]
+path = "pages/2_Analisa_Label_Nutrisi.py"
+name = "Analisa Label Nutrisi"
+icon = "🏷️"
+
+[[pages]]
+path = "pages/3_Jelajah_Nusantara.py"
+name = "Jelajah Nusantara"
+icon = "🗺️"
+
+[[pages]]
+path = "pages/4_Cari_Resep.py"
+name = "Cari Resep"
+icon = "📖"
+
+[[pages]]
+path = "pages/5_Meal_Planner.py"
+name = "Meal Planner"
+icon = "🗓️"
